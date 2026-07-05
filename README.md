@@ -30,6 +30,11 @@ smart-file-agent/
 └── sample_files/
     ├── notes.txt
     └── report.txt
+└── screenshots
+    ├── summary_demo.png
+    ├── search_demo.png
+    ├── statistics_demo.png
+    └── read_demo.png
 ```
 
 ## Installation
