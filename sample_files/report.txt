@@ -1,0 +1,7 @@
+Artificial intelligence is transforming many industries.
+
+Machine learning is one of the most important branches of AI.
+
+Python is widely used for data science, machine learning and automation.
+
+This report explains the basics of AI and discusses its applications.
