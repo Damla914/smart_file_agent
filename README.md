@@ -80,16 +80,3 @@ Search for Python in sample_files/report.txt
 ```text
 Show statistics for sample_files/report.txt
 ```
-
-## Sample Output
-
-```
-> Search for Python in sample_files/report.txt
-
-Line 3:
-Python is widely used for data science, machine learning and automation.
-```
-
-## License
-
-MIT License
